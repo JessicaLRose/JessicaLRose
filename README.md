@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
   ## <img src = "https://media.giphy.com/media/KGe62yIt4G7caL4fEw/giphy.gif" width = 32px> GitHub stats :
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfatim&layout=compact&theme=vision-friendly-dark)](https://github.com/jfatim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaLRose&layout=compact&theme=vision-friendly-dark)](https://github.com/jfatim/github-readme-stats)
  --- 
 ![](https://komarev.com/ghpvc/?username=Jfatim&label=Visitors+Count&color=red)
 
